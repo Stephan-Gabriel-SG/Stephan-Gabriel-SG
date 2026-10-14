@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6E40C9&height=180&section=header&text=Hi,%20I%27m%20St%C3%A9phan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Hi, I'm Stéphan - Full Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9808A,50:F9A56F,100:F7D77E&height=180&section=header&text=Hi,%20I%27m%20St%C3%A9phan&fontSize=40&fontColor=0F172A&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=0F172A" alt="Hi, I'm Stéphan - Full Stack Developer" width="100%" />
 
 **JavaScript · TypeScript · Python · AI**
 
