@@ -98,4 +98,5 @@ _Teamwork, versioning, and automatic deployment_
 
 > _"Code, learn, improve, repeat."_
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D77E,50:F9A56F,100:F9808A&height=100&section=footer" alt="Footer" width="100%" />
 </div>
