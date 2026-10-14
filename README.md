@@ -7,7 +7,7 @@ I build web apps, design APIs, automate workflows, and turn ideas into real prod
 
 **Frontend**
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind)
 
 **Backend**
 
@@ -17,12 +17,18 @@ I build web apps, design APIs, automate workflows, and turn ideas into real prod
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)
 
+**Testing**
+
+![Testing](https://skillicons.dev/icons?i=jest,vitest,cypress,postman)
+
 **Tools & DevOps**
 
 ![Tools](https://skillicons.dev/icons?i=git,docker,linux,githubactions)
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## 💻 What I Like
 
