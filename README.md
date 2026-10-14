@@ -1,0 +1,43 @@
+# Hi, I'm Stéphan 👋
+
+**Full Stack Developer** passionate about JavaScript, AI and Python.
+I build web apps, design APIs, automate workflows, and turn ideas into real products.
+
+## 🚀 Tech Stack
+
+**Frontend**
+
+![JavaScript](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,py,flask,php,java)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)
+
+**Tools & DevOps**
+
+![Tools](https://skillicons.dev/icons?i=git,docker,linux,githubactions)
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+
+## 💻 What I Like
+
+- Backend development and clean architecture
+- API design and system design
+- Artificial Intelligence and automation
+- Building SaaS products and web apps
+- Open source
+- Learning new technologies
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Stephan--Gabriel--SG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephan-Gabriel-SG)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielstephannandrasantsoa@gmail.com)
+
+---
+
+> _"Code, learn, improve, repeat."_
